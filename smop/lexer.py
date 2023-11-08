@@ -63,7 +63,7 @@ def new():
     t_GE          = r">="
     t_GT          = r"\>"
     t_HANDLE      = r"\@"
-    t_LE          = r"<="
+    t_LE          = r"\<="
     t_LT          = r"\<"
     t_MINUS       = r"\-"
     t_MINUSEQ     = r"\-="
